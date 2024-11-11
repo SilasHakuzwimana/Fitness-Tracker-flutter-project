@@ -1,0 +1,59 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+    id 'com.google.gms.google-services' // Apply Google Services plugin
+}
+
+android {
+    namespace = "com.example.fitness_tracker"
+    compileSdk = 33
+
+    defaultConfig {
+        applicationId = "com.example.fitness_tracker"
+        minSdk = 21
+        targetSdk = 33
+        versionCode = 1
+        versionName = "1.0"
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = "1.8"
+    }
+
+    buildTypes {
+        release {
+            signingConfig = signingConfigs.debug
+        }
+    }
+}
+
+flutter {
+    source = "../.."
+}
+
+android {
+    namespace = "com.example.fitness_tracker" // Adjust to match your package name
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = "com.example.fitness_tracker"
+        minSdk = 21
+        targetSdk = 34
+        versionCode = 1
+        versionName = "1.0"
+    }
+}
+
+dependencies {
+    implementation platform('com.google.firebase:firebase-bom:33.5.1')
+    implementation 'com.google.firebase:firebase-analytics'
+    // Add any other Firebase dependencies as needed
+}
+
+apply plugin: 'com.google.gms.google-services'
