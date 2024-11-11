@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Fitness-Tracker-flutter-project
 This a dart&amp; flutter project for graduation.
 
@@ -118,11 +118,8 @@ Open a pull request with a detailed description of your changes.
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-sql
-Copy code
-
 This `README.md` provides clear instructions for setting up, using, and understanding the app’s structure.
-=======
+
 # fitness_tracker
 
 A new Flutter project.
@@ -139,4 +136,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> 0ee0d37 (pushing flutter & dart project)
