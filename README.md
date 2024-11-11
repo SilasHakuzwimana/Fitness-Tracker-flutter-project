@@ -59,7 +59,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/SilasHAKUZWIMANA/Fitness-Tracker-flutter-project.git
+   git clone https://github.com/SilasHakuzwimana/Fitness-Tracker-flutter-project.git
    cd Fitness-Tracker-flutter-project
 
 Install Dependencies: Ensure Flutter is installed. Then, install the project dependencies:
