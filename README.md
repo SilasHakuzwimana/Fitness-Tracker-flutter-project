@@ -1,6 +1,6 @@
 
 # Fitness-Tracker-flutter-project
-This a dart&amp; flutter project for graduation.
+This a dart project; flutter project for graduation.
 
 # Fitness Tracker App
 
@@ -34,11 +34,24 @@ The **Fitness Tracker App** is designed to help users manage their fitness journ
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/92dbc0a2-251c-4108-af0e-093f6a8168b8)
+![image](https://github.com/user-attachments/assets/f37e1cfa-f169-4bf9-889b-9487a2fbd26e)
+![image](https://github.com/user-attachments/assets/5b5adc5d-6d33-43d1-9e5c-3e52d4e4fb5d)
 ![image](https://github.com/user-attachments/assets/55532728-fe86-4269-8b3f-d55d5ff14ff9)
-![image](https://github.com/user-attachments/assets/32b1a834-6f7c-4bb3-bf2b-470fabf9e162)
-![image](https://github.com/user-attachments/assets/98b8a1b5-8525-4d1f-8767-7a1ae7bbb125)
-![image](https://github.com/user-attachments/assets/ce27aead-9fe0-4b58-9c9d-4e3449b57495)
-![image](https://github.com/user-attachments/assets/e2c6189e-4b91-4d8e-8204-7861cf42a98e)
+![image](https://github.com/user-attachments/assets/f6a1aee7-3aa8-486f-be65-29a24e9952be)
+![image](https://github.com/user-attachments/assets/9f59e615-198f-45ab-810d-d3a8027c3b1f)
+![image](https://github.com/user-attachments/assets/0a30e17c-68d3-45af-92c6-bec137c62dbd)
+![image](https://github.com/user-attachments/assets/372629c8-a4ab-4697-909a-535ec7f8b29d)
+![image](https://github.com/user-attachments/assets/4b695026-c060-4c3d-9b9e-bfe7e29636d2)
+![image](https://github.com/user-attachments/assets/471f8f6f-092d-400d-8d8f-eea8b4b4e5c9)
+![image](https://github.com/user-attachments/assets/d72fb996-d24c-4af2-88cb-5ef151fd5475)
+
+
+
+
+
+
+
+
 
 ## Installation
 
